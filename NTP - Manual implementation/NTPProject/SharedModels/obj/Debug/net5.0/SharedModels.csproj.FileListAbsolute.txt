@@ -1,0 +1,24 @@
+C:\Users\Petar\Desktop\SILVER\NTPProject\SharedModels\bin\Debug\net5.0\SharedModels.deps.json
+C:\Users\Petar\Desktop\SILVER\NTPProject\SharedModels\bin\Debug\net5.0\SharedModels.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\SharedModels\bin\Debug\net5.0\SharedModels.pdb
+C:\Users\Petar\Desktop\SILVER\NTPProject\SharedModels\obj\Debug\net5.0\SharedModels.csproj.AssemblyReference.cache
+C:\Users\Petar\Desktop\SILVER\NTPProject\SharedModels\obj\Debug\net5.0\SharedModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar\Desktop\SILVER\NTPProject\SharedModels\obj\Debug\net5.0\SharedModels.AssemblyInfoInputs.cache
+C:\Users\Petar\Desktop\SILVER\NTPProject\SharedModels\obj\Debug\net5.0\SharedModels.AssemblyInfo.cs
+C:\Users\Petar\Desktop\SILVER\NTPProject\SharedModels\obj\Debug\net5.0\SharedModels.csproj.CoreCompileInputs.cache
+C:\Users\Petar\Desktop\SILVER\NTPProject\SharedModels\obj\Debug\net5.0\SharedModels.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\SharedModels\obj\Debug\net5.0\refint\SharedModels.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\SharedModels\obj\Debug\net5.0\SharedModels.pdb
+C:\Users\Petar\Desktop\SILVER\NTPProject\SharedModels\obj\Debug\net5.0\ref\SharedModels.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\SharedModels\bin\Debug\net5.0\SharedModels.deps.json
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\SharedModels\bin\Debug\net5.0\SharedModels.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\SharedModels\bin\Debug\net5.0\SharedModels.pdb
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\SharedModels\obj\Debug\net5.0\SharedModels.csproj.AssemblyReference.cache
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\SharedModels\obj\Debug\net5.0\SharedModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\SharedModels\obj\Debug\net5.0\SharedModels.AssemblyInfoInputs.cache
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\SharedModels\obj\Debug\net5.0\SharedModels.AssemblyInfo.cs
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\SharedModels\obj\Debug\net5.0\SharedModels.csproj.CoreCompileInputs.cache
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\SharedModels\obj\Debug\net5.0\SharedModels.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\SharedModels\obj\Debug\net5.0\refint\SharedModels.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\SharedModels\obj\Debug\net5.0\SharedModels.pdb
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\SharedModels\obj\Debug\net5.0\ref\SharedModels.dll

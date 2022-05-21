@@ -1,0 +1,100 @@
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.csproj.AssemblyReference.cache
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.AssemblyInfoInputs.cache
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.AssemblyInfo.cs
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.csproj.CoreCompileInputs.cache
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.RazorAssemblyInfo.cache
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.RazorAssemblyInfo.cs
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\bin\Debug\net5.0\appsettings.json
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\bin\Debug\net5.0\ocelot.json
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\bin\Debug\net5.0\API Gateway.exe
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\bin\Debug\net5.0\API Gateway.deps.json
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\bin\Debug\net5.0\API Gateway.runtimeconfig.json
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\bin\Debug\net5.0\API Gateway.runtimeconfig.dev.json
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\bin\Debug\net5.0\API Gateway.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\bin\Debug\net5.0\API Gateway.pdb
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\bin\Debug\net5.0\API Gateway.Views.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\bin\Debug\net5.0\API Gateway.Views.pdb
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\bin\Debug\net5.0\Ocelot.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\obj\Debug\net5.0\scopedcss\bundle\API Gateway.styles.css
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\obj\Debug\net5.0\staticwebassets\API Gateway.StaticWebAssets.Manifest.cache
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.TagHelpers.input.cache
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.TagHelpers.output.cache
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.RazorCoreGenerate.cache
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.RazorTargetAssemblyInfo.cache
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.RazorTargetAssemblyInfo.cs
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.Views.pdb
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.csproj.CopyComplete
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\obj\Debug\net5.0\refint\API Gateway.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.pdb
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.genruntimeconfig.cache
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\obj\Debug\net5.0\ref\API Gateway.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\API Gateway\bin\Debug\net5.0\Consul.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\bin\Debug\net5.0\appsettings.json
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\bin\Debug\net5.0\ocelot.json
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\bin\Debug\net5.0\API Gateway.exe
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\bin\Debug\net5.0\API Gateway.deps.json
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\bin\Debug\net5.0\API Gateway.runtimeconfig.json
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\bin\Debug\net5.0\API Gateway.runtimeconfig.dev.json
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\bin\Debug\net5.0\API Gateway.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\bin\Debug\net5.0\API Gateway.pdb
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\bin\Debug\net5.0\API Gateway.Views.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\bin\Debug\net5.0\API Gateway.Views.pdb
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\bin\Debug\net5.0\Consul.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\bin\Debug\net5.0\Ocelot.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.csproj.AssemblyReference.cache
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.AssemblyInfoInputs.cache
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.AssemblyInfo.cs
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.csproj.CoreCompileInputs.cache
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.RazorAssemblyInfo.cache
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.RazorAssemblyInfo.cs
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\obj\Debug\net5.0\scopedcss\bundle\API Gateway.styles.css
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\obj\Debug\net5.0\staticwebassets\API Gateway.StaticWebAssets.Manifest.cache
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.TagHelpers.input.cache
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.TagHelpers.output.cache
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.RazorCoreGenerate.cache
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.RazorTargetAssemblyInfo.cache
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.RazorTargetAssemblyInfo.cs
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.Views.pdb
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.csproj.CopyComplete
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\obj\Debug\net5.0\refint\API Gateway.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.pdb
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\obj\Debug\net5.0\API Gateway.genruntimeconfig.cache
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\API Gateway\obj\Debug\net5.0\ref\API Gateway.dll

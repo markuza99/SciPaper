@@ -1,0 +1,148 @@
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\LibraryMicroservice.exe
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\LibraryMicroservice.deps.json
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\LibraryMicroservice.runtimeconfig.json
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\LibraryMicroservice.runtimeconfig.dev.json
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\LibraryMicroservice.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\LibraryMicroservice.pdb
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\MassTransit.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\MassTransit.RabbitMqTransport.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\obj\Debug\net5.0\LibraryMicroservice.csproj.AssemblyReference.cache
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\obj\Debug\net5.0\LibraryMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\obj\Debug\net5.0\LibraryMicroservice.AssemblyInfoInputs.cache
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\obj\Debug\net5.0\LibraryMicroservice.AssemblyInfo.cs
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\obj\Debug\net5.0\LibraryMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\obj\Debug\net5.0\LibraryMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\obj\Debug\net5.0\LibraryMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\obj\Debug\net5.0\scopedcss\bundle\LibraryMicroservice.styles.css
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\obj\Debug\net5.0\staticwebassets\LibraryMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\obj\Debug\net5.0\LibraryMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\obj\Debug\net5.0\LibraryMicroservice.csproj.CopyComplete
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\obj\Debug\net5.0\LibraryMicroservice.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\obj\Debug\net5.0\refint\LibraryMicroservice.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\obj\Debug\net5.0\LibraryMicroservice.pdb
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\obj\Debug\net5.0\LibraryMicroservice.genruntimeconfig.cache
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\obj\Debug\net5.0\ref\LibraryMicroservice.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\SharedModels.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\SharedModels.pdb
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Automatonymous.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\GreenPipes.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\MassTransit.AspNetCoreIntegration.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\NewId.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Petar\Desktop\SILVER\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Consul.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\LibraryMicroservice.exe
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\LibraryMicroservice.deps.json
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\LibraryMicroservice.runtimeconfig.json
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\LibraryMicroservice.runtimeconfig.dev.json
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\LibraryMicroservice.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\LibraryMicroservice.pdb
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Automatonymous.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Consul.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\GreenPipes.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\MassTransit.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\MassTransit.AspNetCoreIntegration.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\MassTransit.RabbitMqTransport.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\NewId.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\SharedModels.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\bin\Debug\net5.0\SharedModels.pdb
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\obj\Debug\net5.0\LibraryMicroservice.csproj.AssemblyReference.cache
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\obj\Debug\net5.0\LibraryMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\obj\Debug\net5.0\LibraryMicroservice.AssemblyInfoInputs.cache
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\obj\Debug\net5.0\LibraryMicroservice.AssemblyInfo.cs
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\obj\Debug\net5.0\LibraryMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\obj\Debug\net5.0\LibraryMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\obj\Debug\net5.0\LibraryMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\obj\Debug\net5.0\scopedcss\bundle\LibraryMicroservice.styles.css
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\obj\Debug\net5.0\staticwebassets\LibraryMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\obj\Debug\net5.0\LibraryMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\obj\Debug\net5.0\LibraryMicroservice.csproj.CopyComplete
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\obj\Debug\net5.0\LibraryMicroservice.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\obj\Debug\net5.0\refint\LibraryMicroservice.dll
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\obj\Debug\net5.0\LibraryMicroservice.pdb
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\obj\Debug\net5.0\LibraryMicroservice.genruntimeconfig.cache
+C:\Users\Petar\Desktop\NTP-Final\NTP - Manual implementation\NTPProject\LibraryMicroservice\obj\Debug\net5.0\ref\LibraryMicroservice.dll

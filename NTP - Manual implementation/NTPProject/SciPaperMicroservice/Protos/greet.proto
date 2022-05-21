@@ -1,0 +1,24 @@
+syntax = "proto3";
+option csharp_namespace = "UserMicroservice";
+// The greeting service definition.
+service Greeter {
+  rpc CheckLogin (isLoggedInRequest) returns (isLoggedInResponse);
+  rpc GetName (getNameRequest) returns (getNameResponse);
+}
+
+
+message isLoggedInRequest {
+	string jwt = 1;
+}
+
+message isLoggedInResponse {
+	bool isLoggedIn = 1;
+}
+
+message getNameRequest {
+	string jwt = 1;
+}
+
+message getNameResponse {
+	string name = 1;
+}
